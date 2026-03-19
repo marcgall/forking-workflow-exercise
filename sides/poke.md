@@ -14,5 +14,5 @@
 - lime
 
 ## Instructions
-
+- cut the ingredients into cubes. 
 Mix ingredients in a bowl.
